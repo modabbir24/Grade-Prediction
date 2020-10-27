@@ -6,5 +6,7 @@ Then we work upon the Model part here the cleaned dataset after preprocessing wa
 
  Further the testing of the model was done on various evaluation metrics which ended with satisfactory results.
 
-At Last we deployed the model using flask.
+At Last we deployed the model using flask.</br>
+
+Check the full report at ![here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf)
 
