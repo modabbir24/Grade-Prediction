@@ -8,5 +8,5 @@ Then we work upon the Model part here the cleaned dataset after preprocessing wa
 
 At Last we deployed the model using flask.</br>
 
-Check the full report at ![here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf)
+Check the full report at [here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf)
 
