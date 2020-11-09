@@ -277,3 +277,7 @@ def result():
         #to_predict_list = list(map(int, to_predict_list))
         result = ValuePredictor(to_predict_list)
         return render_template("result.html", prediction = result)
+
+
+if __name__ == "__main__":
+    app.run(debug=True)        
