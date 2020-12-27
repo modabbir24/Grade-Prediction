@@ -10,5 +10,5 @@ At Last we deployed the model using **flask**.</br>
 
 Check the full report at [here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf)
 
-Click [here](https://iitg-stud-grade-pred.herokuapp.com/) to check the deployed app
+Click [here](https://stud-grade-predictor.herokuapp.com/) to check the deployed app
 
