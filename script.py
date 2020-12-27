@@ -218,7 +218,7 @@ def preprocess_data(data):
 
 @app.route('/')
 def index():
-    return render_template("index.html")
+    return render_template("template.html")
 
 # prediction function
 def ValuePredictor(to_predict_list):
