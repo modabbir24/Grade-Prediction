@@ -5,4 +5,4 @@ We must require proper planning at the very starting time of the semester, so yo
 ## Objective
 Analyze the input features given by the user and predict their future grades accordingly.
 ## Methods
-On can find the full report here: [here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf)
+One can find the full report here: [here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf)
