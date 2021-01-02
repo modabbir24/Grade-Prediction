@@ -5,4 +5,9 @@ We must require proper planning at the very starting time of the semester, so yo
 ## Objective
 Analyze the input features given by the user and predict their future grades accordingly.
 ## Methods
-One can find the full report here: [here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf)
+One can find the full report here: [here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf).
+Student_student_grad_pred.ipynb is the python notebook.
+## Deployment
+Prepare a HTML form for taking inputs from user. One will get the Html template inside template folder there is a file name index.html,we also css to decorate the main page. On can get it inside staic folder where there is another folder named CSS inside that we get the css file template.css ,and for the prediction, there is another page which is also inside templates folder named result.html file.
+Now refer to scrip.py file where we generate a flask based api. Requirement.txt contains also useful lib required for the deployement process. Finally, under heroku environment deployed the model.
+The link to final website for user is: [here](https://iitg-stud-grade-pred.herokuapp.com/).
