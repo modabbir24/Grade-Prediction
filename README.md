@@ -8,8 +8,8 @@ Analyze the input features given by the user and predict their future grades acc
 One can find the full report here: [here](https://github.com/modabbir24/Grade-Prediction/blob/master/Report.pdf).
 Student_student_grad_pred.ipynb is the python notebook.
 The training data set one can find:
--[transformed_data.csv](https://raw.githubusercontent.com/modabbir24/Grade-Prediction/master/transformed_data.csv)
--[y_train.csv](https://raw.githubusercontent.com/modabbir24/Grade-Prediction/master/y_train.csv)
+1.[transformed_data.csv](https://raw.githubusercontent.com/modabbir24/Grade-Prediction/master/transformed_data.csv)
+2.[y_train.csv](https://raw.githubusercontent.com/modabbir24/Grade-Prediction/master/y_train.csv)
 ## Deployment
 Prepare a HTML form for taking inputs from user. One will get the Html template inside template folder there is a file name index.html,we also css to decorate the main page. On can get it inside staic folder where there is another folder named CSS inside that we get the css file template.css ,and for the prediction, there is another page which is also inside templates folder named result.html file.
 Now refer to scrip.py file where we generate a flask based api. Requirement.txt contains also useful lib required for the deployement process. Finally, under heroku environment deployed the model.
